@@ -1,0 +1,6 @@
+﻿  Building against GXDK Edition 230600.
+  pch.cpp
+  dllmain.cpp
+  GameLibrary.cpp
+     Creating library E:\DynamicLinkRepro\Plugins\XCurlWrapper\Source\ThirdParty\XCurlWrapperLibrary\Gaming.Xbox.Scarlett.x64\Debug\XCurlWrapper.lib and object E:\DynamicLinkRepro\Plugins\XCurlWrapper\Source\ThirdParty\XCurlWrapperLibrary\Gaming.Xbox.Scarlett.x64\Debug\XCurlWrapper.exp
+  XCurlWrapper.vcxproj -> E:\DynamicLinkRepro\Plugins\XCurlWrapper\Source\ThirdParty\XCurlWrapperLibrary\Gaming.Xbox.Scarlett.x64\Debug\XCurlWrapper.dll

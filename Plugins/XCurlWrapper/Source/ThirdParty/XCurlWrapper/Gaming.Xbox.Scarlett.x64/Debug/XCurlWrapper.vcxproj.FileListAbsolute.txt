@@ -1,0 +1,1 @@
+E:\DynamicLinkRepro\Plugins\XCurlWrapper\Source\ThirdParty\XCurlWrapper\Gaming.Xbox.Scarlett.x64\Debug\XCurlWrapper.vcxproj.CopyComplete

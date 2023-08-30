@@ -1,0 +1,10 @@
+﻿  Building against GXDK Edition 230600.
+  pch.cpp
+  dllmain.cpp
+  GameLibrary.cpp
+     Creating library E:\DynamicLinkRepro\Plugins\XCurlWrapper\Source\ThirdParty\XCurlWrapperLibrary\Gaming.Xbox.Scarlett.x64\Release\XCurlWrapper.lib and object E:\DynamicLinkRepro\Plugins\XCurlWrapper\Source\ThirdParty\XCurlWrapperLibrary\Gaming.Xbox.Scarlett.x64\Release\XCurlWrapper.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  XCurlWrapper.vcxproj -> E:\DynamicLinkRepro\Plugins\XCurlWrapper\Source\ThirdParty\XCurlWrapperLibrary\Gaming.Xbox.Scarlett.x64\Release\XCurlWrapper.dll
